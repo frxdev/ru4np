@@ -1,6 +1,6 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Olá pessoal!
 
-![version :10.11.2022](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
+![version :10.11.2023](https://img.shields.io/badge/version-20.08.2023-informational) &nbsp;
 
 <!-- ![profile count](https://komarev.com/ghpvc/?username=7ruangabriel&color=red)&nbsp;
 [![GitHub 7ruangabriel](https://img.shields.io/github/followers/7ruangabriel?label=follow&style=social)](https://github.com/7ruangabriel)&nbsp;

@@ -11,7 +11,7 @@
 ### 👨🏻‍💻 &nbsp; **About Me**
 
 <li>
-  💡 &nbsp; I'm Full Stack developer since 2023.
+  💡 &nbsp; I'm Back End developer since 2023.
 </li>
 <li>
   💻 &nbsp; Javascript | Nodejs | React | Sql | Lua | Rabbitmq | Nginx.

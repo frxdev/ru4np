@@ -1,17 +1,15 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Olá pessoal!
-
-![version :10.11.2023](https://img.shields.io/badge/version-20.08.2023-informational) &nbsp;
-
-<!-- ![profile count](https://komarev.com/ghpvc/?username=7ruangabriel&color=red)&nbsp;
-[![GitHub 7ruangabriel](https://img.shields.io/github/followers/7ruangabriel?label=follow&style=social)](https://github.com/7ruangabriel)&nbsp;
+![version :10.11.2022](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
+<!-- ![profile count](https://komarev.com/ghpvc/?username=ru4np&color=red)&nbsp;
+[![GitHub ru4np](https://img.shields.io/github/followers/ru4np?label=follow&style=social)](https://github.com/flavio21)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success) -->
 
----
+* * *
+
 
 ### 👨🏻‍💻 &nbsp; **About Me**
-
 <li>
-  💡 &nbsp; I'm Back End developer since 2023.
+  💡 &nbsp; I'm Full Stack developer since 2018.
 </li>
 <li>
   💻 &nbsp; Javascript | Nodejs | React | Sql | Lua | Rabbitmq | Nginx.
@@ -20,7 +18,8 @@
   ✍️ &nbsp; Studying languages ​​of the future
 </li>
 
----
+* * *
+
 
 ### 🛠 &nbsp; **Languages and Tools**
 
@@ -37,3 +36,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=007ACC)&nbsp;
+
+
+
+![github-snake-dark](https://github.com/flaviof21/flaviof21/assets/72814783/f70d10b0-a69c-4a70-8302-ca540edc5db6)

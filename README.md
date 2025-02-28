@@ -1,42 +1,12 @@
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Olá pessoal!
-![version :10.11.2022](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
-<!-- ![profile count](https://komarev.com/ghpvc/?username=ru4np&color=red)&nbsp;
-[![GitHub ru4np](https://img.shields.io/github/followers/ru4np?label=follow&style=social)](https://github.com/flavio21)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success) -->
+# 👋 Olá, eu sou ru4np
 
-* * *
+![ru4np GitHub stats](https://github-readme-stats.vercel.app/api?username=ru4np&show_icons=true&theme=dark)
 
+## 👨‍💻 Linguagens: 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,prisma,vite,nodejs,react,solidjs,svelte,next,lua,mongo,mysql,python,golang,postgres,bun,tailwind,c,cs,dotnet,java,linux,ubuntu,discordbots)](https://skillicons.dev)
 
-### 👨🏻‍💻 &nbsp; **About Me**
-<li>
-  💡 &nbsp; I'm Full Stack developer since 2020.
-</li>
-<li>
-  💻 &nbsp; Javascript | Nodejs | React | Sql | Lua | Rabbitmq | Nginx.
-</li>
-<li>
-  ✍️ &nbsp; Studying languages ​​of the future
-</li>
+## ⚙️ Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,discord,photoshop,docker,obsidian)](https://skillicons.dev)<br><br>
 
-* * *
-
-
-### 🛠 &nbsp; **Languages and Tools**
-
-![Nodejs](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
-![Lua](https://img.shields.io/badge/-lua-05122A?style=flat&logo=lua)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
-![Express](https://img.shields.io/badge/-Expressjs-05122A?style=flat&logo=express)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=007ACC)&nbsp;
-
-
-
-![github-snake-dark](https://github.com/flaviof21/flaviof21/assets/72814783/f70d10b0-a69c-4a70-8302-ca540edc5db6)
+## 📬 Contato
+Estou à disposição para discutir colaborações, projetos de interesse ou qualquer outro tema relacionado à programação. Será um prazer trocar ideias e explorar novas oportunidades. 

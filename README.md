@@ -1,5 +1,6 @@
 # 👋 Olá, eu sou frxdev
 
+
 ## 👨‍💻 Linguagens: 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,prisma,vite,nodejs,react,solidjs,svelte,next,lua,mongo,mysql,python,golang,postgres,bun,tailwind,c,cs,dotnet,java,linux,ubuntu,discordbots)](https://skillicons.dev)
 

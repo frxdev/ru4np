@@ -1,11 +1,28 @@
-# 👋 Olá, eu sou frxdev
+<div>
+  <h2><code>👋🏽</code> Olá, meu nome é frxdev!</h2>
+  <h4><code>🧠</code> • Estudante de Desenvolvimento FullStack</h4>
+</div>
 
+###### Tenho 20 anos e atualmente estou **estudando Go (Golang)**, com foco em back-end, e tenho experiência na construção de interfaces utilizando apenas **HTML**, **CSS** e **JS**. Estou sempre em busca de novos desafios e aprendizados na área de desenvolvimento, com o objetivo de aprimorar minhas habilidades e criar soluções perfeita e diferentes.
 
-## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,prisma,vite,nodejs,react,solidjs,svelte,next,lua,mongo,mysql,python,golang,postgres,bun,tailwind,c,cs,dotnet,java,linux,ubuntu,discordbots)](https://skillicons.dev)
+---
 
-## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,discord,photoshop,docker,obsidian)](https://skillicons.dev)<br><br>
+<div>
+  <h1><code>☕️</code> Conhecimentos</h1>
+  <!-- Back-end -->
+  <h3><code>⚙️</code> Back-end</h3>
+  <img src="https://skillicons.dev/icons?i=lua,go&theme=dark" height="40" alt="Icons Back-end" />
+  <!-- Back-end -->
+  <h3><code>💻</code> Front-end</h3>
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="40" alt="Icons Back-end" />
+  <!-- Ferramentas -->
+  <h3><code>🛠️</code> Ferramentas</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="40" alt="Icons Ferramentas" />
+  Sistema Operacional
+   <h3><code>🚀</code> Sistema Operacional</h3>
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" height="40" alt="Icons Sistema Operacional" /> -->
+</div>
 
-## 📬 Contato
-Estou à disposição para discutir colaborações, projetos de interesse ou qualquer outro tema relacionado à programação. Será um prazer trocar ideias e explorar novas oportunidades. 
+---
+
+###### Copyright © 2025 / [Vitor Hugo](https://github.com/frxdev)
